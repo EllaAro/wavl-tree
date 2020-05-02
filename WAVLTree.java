@@ -1,6 +1,3 @@
-// shai shohat 311121917 shaishohat
-//ella aronov 319426706 ellaaronov 
-
 package ex1;
 
 /**
